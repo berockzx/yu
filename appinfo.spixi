@@ -1,0 +1,5 @@
+name=IXIHOLD'EM
+id=IXIHOLD'EM.poker
+version=1.0.0
+entry=index.html
+permissions=network,storage
